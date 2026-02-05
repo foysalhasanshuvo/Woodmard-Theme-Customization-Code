@@ -1,3 +1,7 @@
+1. Go to Wordpress Dashboard.
+2. Than Click Appearance>Customize
+3. Than Click Additional CSS
+4. Than copy & and past this code
 ```shell script
 .container .full-width{
   width: 100vw;
@@ -7,3 +11,4 @@
 }
 
 ```
+5. Than use ```shell script full-width ``` in elementor section class which section you get full Width
