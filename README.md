@@ -11,4 +11,4 @@
 }
 
 ```
-5. Than use ```shell script full-width ``` in elementor section class which section you get full Width
+5. Than use ```full-width``` in elementor section class which section you get full Width
