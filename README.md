@@ -12,3 +12,14 @@
 
 ```
 5. Than use ```full-width``` in elementor section class which section you get full Width
+
+
+if logo size problem. so, use this code
+
+```shell script
+.wd-logo img {
+  max-height: none;
+	height: 150px;
+	margin-top: -40px;
+}
+```
