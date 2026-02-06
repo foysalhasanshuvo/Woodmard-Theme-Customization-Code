@@ -1,3 +1,4 @@
+# Elementor Full Width
 1. Go to Wordpress Dashboard.
 2. Than Click Appearance>Customize
 3. Than Click Additional CSS
@@ -14,6 +15,7 @@
 5. Than use ```full-width``` in elementor section class which section you get full Width
 
 
+# Change Woodmart Logo size
 if logo size problem. so, use this code
 
 ```shell script
