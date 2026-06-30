@@ -12,6 +12,16 @@
 }
 
 ```
+alternative
+```shell script
+.container .full-width{
+  width: 100vw;
+  max-width: 100vw;
+  position: relative;
+  left: -15px;
+}
+
+```
 5. Than use ```full-width``` in elementor section class which section you get full Width
 
 
