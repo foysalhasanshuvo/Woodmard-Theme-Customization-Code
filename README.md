@@ -15,10 +15,10 @@
 alternative
 ```shell script
 .container .full-width{
-  width: 100vw;
-  max-width: 100vw;
-  position: relative;
-  left: -15px;
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    max-width: 100vw;
 }
 
 ```
